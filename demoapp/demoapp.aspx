@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is a sample project.
+            This is a seconday sample project.
         </div>
     </form>
 </body>
